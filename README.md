@@ -2,7 +2,8 @@
 [![npm](https://img.shields.io/npm/v/named-amd.svg?style=flat-square)](https://npmjs.com/named-amd)
 [![npm license](https://img.shields.io/npm/l/named-amd.svg?style=flat-square)](https://npmjs.com/named-amd)
 [![npm downloads](https://img.shields.io/npm/dm/named-amd.svg?style=flat-square)](https://npmjs.com/named-amd)
-[![build status](https://img.shields.io/travis/jhermsmeier/browserify-named-amd.svg?style=flat-square)](https://travis-ci.org/jhermsmeier/browserify-named-amd)
+
+Browserify transform that names unnamed AMD defines in output bundles.
 
 ## Install via [npm](https://npmjs.com)
 
